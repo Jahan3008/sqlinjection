@@ -35,7 +35,7 @@ Select Multidae from the menu listed as shown above. The page is displayed as be
 
 
 Click on the menu Login/Register and register for an account
-##  OUTPUT
+##  OUTPUT  
 
 
 
